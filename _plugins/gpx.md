@@ -20,6 +20,7 @@ compatibility:
   python: ">=2.7,<4"
   os:
   - linux
+  - macos
 ---
 
 GPX was created by Dr. Henry Thomas in April 2013.  It is a post processing
